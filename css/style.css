@@ -1,0 +1,39 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* common css */
+
+img{
+    cursor: pointer;
+}
+
+button{
+    cursor: pointer;
+}
+
+.container-fluid{
+    max-width: 1160px !important;
+}
+
+/* common css */
+
+body{
+    background: url(../img/background.jpg)fixed;
+}
+
+/* section two */
+#secTwo{
+    background-color: #ffffff !important;
+}
+/* section two!! */
+
+/* sec three */
+#secThree{
+    background-color: #f6f6f6;
+}
+/* sec three!! */
